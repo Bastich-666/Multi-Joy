@@ -6,7 +6,7 @@ and wanted to share it with everyone My main reason for doing this is I have see
 extortionate prices for other adapters on eBay etc. All in this project cost me less than £5 and 
 a couple of hours soldering and coding.
 
-This sketch requires an additional; library which was produced by Matthew Heironimus, his most excellent 
+This sketch requires an additional library which was produced by Matthew Heironimus, his most excellent 
 library can be downloaded from: https://github.com/MHeironimus/ArduinoJoystickLibrary
 
 Hope this helps other people  get their retro joystick working on modern systems :)
