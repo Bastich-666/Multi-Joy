@@ -9,4 +9,4 @@ a couple of hours soldering and coding.
 This sketch requires an additional library which was produced by Matthew Heironimus, his most excellent 
 library can be downloaded from: https://github.com/MHeironimus/ArduinoJoystickLibrary
 
-Hope this helps other people  get their retro joystick working on modern systems :)
+Hope this helps other people  get their retro joysticks working on modern systems :)
